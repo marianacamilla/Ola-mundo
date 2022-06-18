@@ -35,3 +35,6 @@ lista de tarefas:
 [acesse meu linkedin](https://www.linkedin.com/in/marianacamilla/)
 
 num │ nome │ gato
+---│---│---
+24 │ mariana │ preto e branco
+69 │ deuma │ cinza e branco
