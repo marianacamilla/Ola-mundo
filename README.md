@@ -48,4 +48,4 @@ else:
    print(f'O valor (num) é IMPAR)
 ```
 
-:hand :heart 👩‍💻
+🤭 👩‍💻 🖤
