@@ -39,4 +39,11 @@ num | nome | gato
 24 | mariana | preto e branco
 69 | deuma | cinza e branco
 
-'if.java.dificil'
+Prog em pythom
+'''
+num = int(input('Digite um valor:')
+if num % 2 == 0
+   print(f'O valor (num) é PAR)
+else:
+   print(f'O valor (num) é IMPAR)
+'''
