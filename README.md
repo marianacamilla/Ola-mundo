@@ -27,3 +27,7 @@ lista de tarefas:
 - [ ] criar um site
 - [ ] personalizar
 - [ ] design
+
+
+
+![shoptocat](https://user-images.githubusercontent.com/102675098/174452039-8d23d3e7-d146-43d2-8f9d-c9e744f6df33.png)
