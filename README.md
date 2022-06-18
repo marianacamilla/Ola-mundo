@@ -47,3 +47,5 @@ if num % 2 == 0:
 else:
    print(f'O valor (num) é IMPAR)
 ```
+
+:hand :heart 👩‍💻
