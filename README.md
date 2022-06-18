@@ -40,10 +40,10 @@ num | nome | gato
 69 | deuma | cinza e branco
 
 Prog em pythom
-'''
+```
 num = int(input('Digite um valor:')
-if num % 2 == 0
+if num % 2 == 0:
    print(f'O valor (num) é PAR)
 else:
    print(f'O valor (num) é IMPAR)
-'''
+```
